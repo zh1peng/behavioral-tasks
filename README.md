@@ -2,7 +2,7 @@
 
 1. open logfile search.py
 
-   run `copy_logfiles(r'Z:\Behavioral DATA_Back up\**\*search_str*.log', r'C:\Users\Zhipeng\Desktop\DD')`
+   run `copy_logfiles(r'Z:\Behavioral DATA_Back up\**\*search_str*.log', r'C:\Users\Zhipeng\Desktop\search_str')`in python. This is copy logfiles to a certain folder.
 
    change `search_str` to task abbreviation. 
 
